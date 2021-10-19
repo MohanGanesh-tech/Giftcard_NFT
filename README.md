@@ -1,5 +1,5 @@
 # Giftcard_NFT
-Reactjs+Ethereum Blockchain+IPFS+Openzeppelin
+Reactjs + Ethereum Blockchain(Ganache) + Truffle + IPFS + Openzeppelin(ERC721)
 
 <h4>You can Buy the Cards</h4>
 
